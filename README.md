@@ -1,4 +1,8 @@
-### Hi there 👋
+![dancing!](https://github.com/oscarcpozas/oscarcpozas/blob/fd9a0bef0ace7577ec42b06cd25eab27aae38fb5/giphy.gif)
+
+### Hi there 👋 let's start! 
+
+I'm Óscar
 
 <!--
 **oscarcpozas/oscarcpozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
